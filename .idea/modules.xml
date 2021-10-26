@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/javaSE-javaEE_ciklum.iml" filepath="$PROJECT_DIR$/.idea/javaSE-javaEE_ciklum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE+javaEE.iml" filepath="$PROJECT_DIR$/javaSE+javaEE.iml" />
     </modules>
   </component>
 </project>

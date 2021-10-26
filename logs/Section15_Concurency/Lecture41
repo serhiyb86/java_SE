@@ -1,0 +1,12 @@
+C:\Users\Serh\.jdks\openjdk-15.0.2\bin\java.exe -javaagent:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5284.40\lib\idea_rt.jar=61805:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5284.40\bin -Dfile.encoding=UTF-8 -classpath D:\Project\javaSE+javaEE\target\classes javaSE.section15_Concurency.Lecture41
+pool-1-thread-3 [RECEIVED] Message = 4
+pool-1-thread-1 [RECEIVED] Message = 2
+pool-1-thread-2 [RECEIVED] Message = 3
+pool-1-thread-4 [RECEIVED] Message = 5
+pool-1-thread-2 (DONE) Processing Message = 3
+pool-1-thread-1 (DONE) Processing Message = 2
+pool-1-thread-3 (DONE) Processing Message = 4
+pool-1-thread-4 (DONE) Processing Message = 5
+Submitted all task...
+
+Process finished with exit code 0

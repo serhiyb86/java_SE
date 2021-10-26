@@ -10,6 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="javaSE+javaEE" target="15" />
       <module name="javaSE-javaEE_ciklum" target="15" />
     </bytecodeTargetLevel>
   </component>
