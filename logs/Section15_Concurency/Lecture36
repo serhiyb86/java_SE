@@ -1,0 +1,60 @@
+C:\Users\Serh\.jdks\openjdk-15.0.2\bin\java.exe -javaagent:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\lib\idea_rt.jar=1028:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\bin -Dfile.encoding=UTF-8 -classpath D:\Project\javaSE-javaEE_ciklum\target\classes javaSE.section15_Concurency.Lecture36
+Starting Thread1
+Starting Thread2
+
+Interface Runnable
+Starting Runnable Thread1
+Starting Runnable Thread2
+Starting Runnable AnonymousClass Thread1
+Thread A - number: 0
+Thread B - number: 0
+Runnable Thread A - number: 0
+Runnable Thread B - number: 0
+Runnable Anonymous class Thread  - number: 0
+Runnable Thread A - number: 1
+Thread B - number: 1
+Runnable Thread B - number: 1
+Runnable Anonymous class Thread  - number: 1
+Thread A - number: 1
+Runnable Thread A - number: 2
+Thread B - number: 2
+Runnable Thread B - number: 2
+Runnable Anonymous class Thread  - number: 2
+Thread A - number: 2
+Runnable Anonymous class Thread  - number: 3
+Runnable Thread A - number: 3
+Runnable Thread B - number: 3
+Thread B - number: 3
+Thread A - number: 3
+Runnable Thread A - number: 4
+Runnable Anonymous class Thread  - number: 4
+Runnable Thread B - number: 4
+Thread B - number: 4
+Thread A - number: 4
+Runnable Thread A - number: 5
+Runnable Thread B - number: 5
+Thread B - number: 5
+Runnable Anonymous class Thread  - number: 5
+Thread A - number: 5
+Runnable Thread B - number: 6
+Runnable Thread A - number: 6
+Runnable Anonymous class Thread  - number: 6
+Thread B - number: 6
+Thread A - number: 6
+Runnable Thread A - number: 7
+Runnable Thread B - number: 7
+Runnable Anonymous class Thread  - number: 7
+Thread B - number: 7
+Thread A - number: 7
+Runnable Thread B - number: 8
+Runnable Thread A - number: 8
+Runnable Anonymous class Thread  - number: 8
+Thread B - number: 8
+Thread A - number: 8
+Runnable Thread A - number: 9
+Runnable Thread B - number: 9
+Thread B - number: 9
+Runnable Anonymous class Thread  - number: 9
+Thread A - number: 9
+
+Process finished with exit code 0

@@ -1,4 +1,4 @@
-package javaSE.section11;
+package javaSE.section11_Collections;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -6,6 +6,7 @@ import java.util.LinkedList;
 
 public class Lecture25 {
     public static void main(String[] args) {
+        //is better to retrieving data from the list
         ArrayList<String> words = new ArrayList<>();
         words.add("Hello");
         words.add("world");
@@ -15,7 +16,7 @@ public class Lecture25 {
         System.out.println(word);
 
         System.out.println();
-
+//is better for manipulating data
         LinkedList<Integer> numbers = new LinkedList<>();
         numbers.add(100);
         numbers.add(200);

@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="javaSE+javaEE" />
+        <module name="javaSE-javaEE_ciklum" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="javaSE-javaEE_ciklum" target="15" />
+    </bytecodeTargetLevel>
   </component>
 </project>

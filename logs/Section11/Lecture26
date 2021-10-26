@@ -1,0 +1,11 @@
+C:\Users\Serh\.jdks\openjdk-15.0.2\bin\java.exe -javaagent:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\lib\idea_rt.jar=1050:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\bin -Dfile.encoding=UTF-8 -classpath D:\Project\javaSE-javaEE_ciklum\target\classes javaSE.section11_Collections.Lecture26
+Vehicle{make='Honda', model='accord', price=1300, fourWDrive=false}
+Vehicle{make='Toyota', model='camry', price=15000, fourWDrive=false}
+Vehicle{make='Jeep', model='Wrangler', price=25000, fourWDrive=true}
+
+Lion
+Cat
+Dog
+Bird
+
+Process finished with exit code 0

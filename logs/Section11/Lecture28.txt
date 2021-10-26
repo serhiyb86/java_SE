@@ -1,0 +1,19 @@
+C:\Users\Serh\.jdks\openjdk-15.0.2\bin\java.exe -javaagent:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\lib\idea_rt.jar=1042:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\bin -Dfile.encoding=UTF-8 -classpath D:\Project\javaSE-javaEE_ciklum\target\classes javaSE.section11_Collections.Lecture28
+Some method for collections
+[100, 200, 45]
+false
+[]
+
+HashSet to List and Sort
+[10, 45, 100, 200, 1000]
+
+Sort strings
+Not sorted strings -> [Tooth Brush, Random, Hello, Computer, Cloth]
+Sorted strings -> [Cloth, Computer, Hello, Random, Tooth Brush]
+
+Sorting of objects
+Not sorted employees -> [Employee{name='Angel', salary=2000.0, department='Maintain'}, Employee{name='Peter', salary=4000.0, department='IT'}, Employee{name='Mike', salary=3500.0, department='Accounting'}, Employee{name='Paul', salary=3000.0, department='Admin'}]
+Sorted employees -> [Employee{name='Angel', salary=2000.0, department='Maintain'}, Employee{name='Mike', salary=3500.0, department='Accounting'}, Employee{name='Paul', salary=3000.0, department='Admin'}, Employee{name='Peter', salary=4000.0, department='IT'}]
+Sorted salary -> [Employee{name='Angel', salary=2000.0, department='Maintain'}, Employee{name='Paul', salary=3000.0, department='Admin'}, Employee{name='Mike', salary=3500.0, department='Accounting'}, Employee{name='Peter', salary=4000.0, department='IT'}]
+
+Process finished with exit code 0

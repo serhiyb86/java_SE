@@ -1,0 +1,1285 @@
+C:\Users\Serh\.jdks\openjdk-15.0.2\bin\java.exe -javaagent:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\lib\idea_rt.jar=1053:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\bin -Dfile.encoding=UTF-8 -classpath D:\Project\javaSE-javaEE_ciklum\target\classes javaSE.section15_Concurency.Lecture38
+ADDED: Product{id=0, name='product_0'}
+ADDED: Product{id=1, name='product_1'}
+ADDED: Product{id=2, name='product_2'}
+ADDED: Product{id=3, name='product_3'}
+ADDED: Product{id=4, name='product_4'}
+ADDED: Product{id=5, name='product_5'}
+ADDED: Product{id=6, name='product_6'}
+ADDED: Product{id=7, name='product_7'}
+ADDED: Product{id=8, name='product_8'}
+ADDED: Product{id=9, name='product_9'}
+ADDED: Product{id=10, name='product_10'}
+ADDED: Product{id=11, name='product_11'}
+ADDED: Product{id=12, name='product_12'}
+ADDED: Product{id=13, name='product_13'}
+ADDED: Product{id=14, name='product_14'}
+ADDED: Product{id=15, name='product_15'}
+ADDED: Product{id=16, name='product_16'}
+ADDED: Product{id=17, name='product_17'}
+ADDED: Product{id=18, name='product_18'}
+ADDED: Product{id=19, name='product_19'}
+ADDED: Product{id=20, name='product_20'}
+ADDED: Product{id=21, name='product_21'}
+ADDED: Product{id=22, name='product_22'}
+ADDED: Product{id=23, name='product_23'}
+ADDED: Product{id=24, name='product_24'}
+ADDED: Product{id=25, name='product_25'}
+ADDED: Product{id=26, name='product_26'}
+ADDED: Product{id=27, name='product_27'}
+ADDED: Product{id=28, name='product_28'}
+ADDED: Product{id=29, name='product_29'}
+ADDED: Product{id=30, name='product_30'}
+ADDED: Product{id=31, name='product_31'}
+ADDED: Product{id=32, name='product_32'}
+ADDED: Product{id=33, name='product_33'}
+ADDED: Product{id=34, name='product_34'}
+ADDED: Product{id=35, name='product_35'}
+ADDED: Product{id=36, name='product_36'}
+ADDED: Product{id=37, name='product_37'}
+ADDED: Product{id=38, name='product_38'}
+ADDED: Product{id=39, name='product_39'}
+ADDED: Product{id=40, name='product_40'}
+ADDED: Product{id=41, name='product_41'}
+ADDED: Product{id=42, name='product_42'}
+ADDED: Product{id=43, name='product_43'}
+ADDED: Product{id=44, name='product_44'}
+ADDED: Product{id=45, name='product_45'}
+ADDED: Product{id=46, name='product_46'}
+ADDED: Product{id=47, name='product_47'}
+ADDED: Product{id=48, name='product_48'}
+ADDED: Product{id=49, name='product_49'}
+ADDED: Product{id=50, name='product_50'}
+ADDED: Product{id=51, name='product_51'}
+ADDED: Product{id=52, name='product_52'}
+ADDED: Product{id=53, name='product_53'}
+ADDED: Product{id=54, name='product_54'}
+ADDED: Product{id=55, name='product_55'}
+ADDED: Product{id=56, name='product_56'}
+ADDED: Product{id=57, name='product_57'}
+ADDED: Product{id=58, name='product_58'}
+ADDED: Product{id=59, name='product_59'}
+ADDED: Product{id=60, name='product_60'}
+ADDED: Product{id=61, name='product_61'}
+ADDED: Product{id=62, name='product_62'}
+ADDED: Product{id=63, name='product_63'}
+ADDED: Product{id=64, name='product_64'}
+ADDED: Product{id=65, name='product_65'}
+ADDED: Product{id=66, name='product_66'}
+ADDED: Product{id=67, name='product_67'}
+ADDED: Product{id=68, name='product_68'}
+ADDED: Product{id=69, name='product_69'}
+ADDED: Product{id=70, name='product_70'}
+ADDED: Product{id=71, name='product_71'}
+ADDED: Product{id=72, name='product_72'}
+ADDED: Product{id=73, name='product_73'}
+ADDED: Product{id=74, name='product_74'}
+ADDED: Product{id=75, name='product_75'}
+ADDED: Product{id=76, name='product_76'}
+ADDED: Product{id=77, name='product_77'}
+ADDED: Product{id=78, name='product_78'}
+ADDED: Product{id=79, name='product_79'}
+ADDED: Product{id=80, name='product_80'}
+ADDED: Product{id=81, name='product_81'}
+ADDED: Product{id=82, name='product_82'}
+ADDED: Product{id=83, name='product_83'}
+ADDED: Product{id=84, name='product_84'}
+ADDED: Product{id=85, name='product_85'}
+ADDED: Product{id=86, name='product_86'}
+ADDED: Product{id=87, name='product_87'}
+ADDED: Product{id=88, name='product_88'}
+ADDED: Product{id=89, name='product_89'}
+ADDED: Product{id=90, name='product_90'}
+ADDED: Product{id=91, name='product_91'}
+ADDED: Product{id=92, name='product_92'}
+ADDED: Product{id=93, name='product_93'}
+ADDED: Product{id=94, name='product_94'}
+ADDED: Product{id=95, name='product_95'}
+ADDED: Product{id=96, name='product_96'}
+ADDED: Product{id=97, name='product_97'}
+ADDED: Product{id=98, name='product_98'}
+ADDED: Product{id=99, name='product_99'}
+ADDED: Product{id=100, name='product_100'}
+ADDED: Product{id=101, name='product_101'}
+ADDED: Product{id=102, name='product_102'}
+ADDED: Product{id=103, name='product_103'}
+ADDED: Product{id=104, name='product_104'}
+ADDED: Product{id=105, name='product_105'}
+ADDED: Product{id=106, name='product_106'}
+ADDED: Product{id=107, name='product_107'}
+ADDED: Product{id=108, name='product_108'}
+ADDED: Product{id=109, name='product_109'}
+ADDED: Product{id=110, name='product_110'}
+ADDED: Product{id=111, name='product_111'}
+ADDED: Product{id=112, name='product_112'}
+ADDED: Product{id=113, name='product_113'}
+ADDED: Product{id=114, name='product_114'}
+ADDED: Product{id=115, name='product_115'}
+ADDED: Product{id=116, name='product_116'}
+ADDED: Product{id=117, name='product_117'}
+ADDED: Product{id=118, name='product_118'}
+ADDED: Product{id=119, name='product_119'}
+ADDED: Product{id=120, name='product_120'}
+ADDED: Product{id=121, name='product_121'}
+ADDED: Product{id=122, name='product_122'}
+ADDED: Product{id=123, name='product_123'}
+ADDED: Product{id=124, name='product_124'}
+ADDED: Product{id=125, name='product_125'}
+ADDED: Product{id=126, name='product_126'}
+ADDED: Product{id=127, name='product_127'}
+ADDED: Product{id=128, name='product_128'}
+ADDED: Product{id=129, name='product_129'}
+ADDED: Product{id=130, name='product_130'}
+ADDED: Product{id=131, name='product_131'}
+ADDED: Product{id=132, name='product_132'}
+ADDED: Product{id=133, name='product_133'}
+ADDED: Product{id=134, name='product_134'}
+ADDED: Product{id=135, name='product_135'}
+ADDED: Product{id=136, name='product_136'}
+ADDED: Product{id=137, name='product_137'}
+ADDED: Product{id=138, name='product_138'}
+ADDED: Product{id=139, name='product_139'}
+ADDED: Product{id=140, name='product_140'}
+ADDED: Product{id=141, name='product_141'}
+ADDED: Product{id=142, name='product_142'}
+ADDED: Product{id=143, name='product_143'}
+ADDED: Product{id=144, name='product_144'}
+ADDED: Product{id=145, name='product_145'}
+ADDED: Product{id=146, name='product_146'}
+ADDED: Product{id=147, name='product_147'}
+ADDED: Product{id=148, name='product_148'}
+ADDED: Product{id=149, name='product_149'}
+ADDED: Product{id=150, name='product_150'}
+ADDED: Product{id=151, name='product_151'}
+ADDED: Product{id=152, name='product_152'}
+ADDED: Product{id=153, name='product_153'}
+ADDED: Product{id=154, name='product_154'}
+ADDED: Product{id=155, name='product_155'}
+ADDED: Product{id=156, name='product_156'}
+ADDED: Product{id=157, name='product_157'}
+ADDED: Product{id=158, name='product_158'}
+ADDED: Product{id=159, name='product_159'}
+ADDED: Product{id=160, name='product_160'}
+ADDED: Product{id=161, name='product_161'}
+ADDED: Product{id=162, name='product_162'}
+ADDED: Product{id=163, name='product_163'}
+ADDED: Product{id=164, name='product_164'}
+ADDED: Product{id=165, name='product_165'}
+ADDED: Product{id=166, name='product_166'}
+ADDED: Product{id=167, name='product_167'}
+ADDED: Product{id=168, name='product_168'}
+ADDED: Product{id=169, name='product_169'}
+ADDED: Product{id=170, name='product_170'}
+ADDED: Product{id=171, name='product_171'}
+ADDED: Product{id=172, name='product_172'}
+ADDED: Product{id=173, name='product_173'}
+ADDED: Product{id=174, name='product_174'}
+ADDED: Product{id=175, name='product_175'}
+ADDED: Product{id=176, name='product_176'}
+ADDED: Product{id=177, name='product_177'}
+ADDED: Product{id=178, name='product_178'}
+ADDED: Product{id=179, name='product_179'}
+ADDED: Product{id=180, name='product_180'}
+ADDED: Product{id=181, name='product_181'}
+ADDED: Product{id=182, name='product_182'}
+ADDED: Product{id=183, name='product_183'}
+ADDED: Product{id=184, name='product_184'}
+ADDED: Product{id=185, name='product_185'}
+ADDED: Product{id=186, name='product_186'}
+ADDED: Product{id=187, name='product_187'}
+ADDED: Product{id=188, name='product_188'}
+ADDED: Product{id=189, name='product_189'}
+ADDED: Product{id=190, name='product_190'}
+ADDED: Product{id=191, name='product_191'}
+ADDED: Product{id=192, name='product_192'}
+ADDED: Product{id=193, name='product_193'}
+ADDED: Product{id=194, name='product_194'}
+ADDED: Product{id=195, name='product_195'}
+ADDED: Product{id=196, name='product_196'}
+ADDED: Product{id=197, name='product_197'}
+ADDED: Product{id=198, name='product_198'}
+ADDED: Product{id=199, name='product_199'}
+ADDED: Product{id=200, name='product_200'}
+ADDED: Product{id=201, name='product_201'}
+ADDED: Product{id=202, name='product_202'}
+ADDED: Product{id=203, name='product_203'}
+ADDED: Product{id=204, name='product_204'}
+ADDED: Product{id=205, name='product_205'}
+ADDED: Product{id=206, name='product_206'}
+ADDED: Product{id=207, name='product_207'}
+ADDED: Product{id=208, name='product_208'}
+ADDED: Product{id=209, name='product_209'}
+ADDED: Product{id=210, name='product_210'}
+ADDED: Product{id=211, name='product_211'}
+ADDED: Product{id=212, name='product_212'}
+ADDED: Product{id=213, name='product_213'}
+ADDED: Product{id=214, name='product_214'}
+ADDED: Product{id=215, name='product_215'}
+ADDED: Product{id=216, name='product_216'}
+ADDED: Product{id=217, name='product_217'}
+ADDED: Product{id=218, name='product_218'}
+ADDED: Product{id=219, name='product_219'}
+ADDED: Product{id=220, name='product_220'}
+ADDED: Product{id=221, name='product_221'}
+ADDED: Product{id=222, name='product_222'}
+ADDED: Product{id=223, name='product_223'}
+ADDED: Product{id=224, name='product_224'}
+ADDED: Product{id=225, name='product_225'}
+ADDED: Product{id=226, name='product_226'}
+ADDED: Product{id=227, name='product_227'}
+ADDED: Product{id=228, name='product_228'}
+ADDED: Product{id=229, name='product_229'}
+ADDED: Product{id=230, name='product_230'}
+ADDED: Product{id=231, name='product_231'}
+ADDED: Product{id=232, name='product_232'}
+ADDED: Product{id=233, name='product_233'}
+ADDED: Product{id=234, name='product_234'}
+ADDED: Product{id=235, name='product_235'}
+ADDED: Product{id=236, name='product_236'}
+ADDED: Product{id=237, name='product_237'}
+ADDED: Product{id=238, name='product_238'}
+ADDED: Product{id=239, name='product_239'}
+ADDED: Product{id=240, name='product_240'}
+ADDED: Product{id=241, name='product_241'}
+ADDED: Product{id=242, name='product_242'}
+ADDED: Product{id=243, name='product_243'}
+ADDED: Product{id=244, name='product_244'}
+ADDED: Product{id=245, name='product_245'}
+ADDED: Product{id=246, name='product_246'}
+ADDED: Product{id=247, name='product_247'}
+ADDED: Product{id=248, name='product_248'}
+ADDED: Product{id=249, name='product_249'}
+ADDED: Product{id=250, name='product_250'}
+ADDED: Product{id=251, name='product_251'}
+ADDED: Product{id=252, name='product_252'}
+ADDED: Product{id=253, name='product_253'}
+ADDED: Product{id=254, name='product_254'}
+ADDED: Product{id=255, name='product_255'}
+ADDED: Product{id=256, name='product_256'}
+ADDED: Product{id=257, name='product_257'}
+ADDED: Product{id=258, name='product_258'}
+ADDED: Product{id=259, name='product_259'}
+ADDED: Product{id=260, name='product_260'}
+ADDED: Product{id=261, name='product_261'}
+ADDED: Product{id=262, name='product_262'}
+ADDED: Product{id=263, name='product_263'}
+ADDED: Product{id=264, name='product_264'}
+ADDED: Product{id=265, name='product_265'}
+ADDED: Product{id=266, name='product_266'}
+ADDED: Product{id=267, name='product_267'}
+ADDED: Product{id=268, name='product_268'}
+ADDED: Product{id=269, name='product_269'}
+ADDED: Product{id=270, name='product_270'}
+ADDED: Product{id=271, name='product_271'}
+ADDED: Product{id=272, name='product_272'}
+ADDED: Product{id=273, name='product_273'}
+ADDED: Product{id=274, name='product_274'}
+ADDED: Product{id=275, name='product_275'}
+ADDED: Product{id=276, name='product_276'}
+ADDED: Product{id=277, name='product_277'}
+ADDED: Product{id=278, name='product_278'}
+ADDED: Product{id=279, name='product_279'}
+ADDED: Product{id=280, name='product_280'}
+ADDED: Product{id=281, name='product_281'}
+Print the sold Product{id=0, name='product_0'}
+ADDED: Product{id=282, name='product_282'}
+ADDED: Product{id=283, name='product_283'}
+Print the sold Product{id=1, name='product_1'}
+ADDED: Product{id=284, name='product_284'}
+Print the sold Product{id=2, name='product_2'}
+ADDED: Product{id=285, name='product_285'}
+ADDED: Product{id=286, name='product_286'}
+Print the sold Product{id=3, name='product_3'}
+ADDED: Product{id=287, name='product_287'}
+ADDED: Product{id=288, name='product_288'}
+Print the sold Product{id=4, name='product_4'}
+ADDED: Product{id=289, name='product_289'}
+ADDED: Product{id=290, name='product_290'}
+Print the sold Product{id=5, name='product_5'}
+ADDED: Product{id=291, name='product_291'}
+ADDED: Product{id=292, name='product_292'}
+Print the sold Product{id=6, name='product_6'}
+ADDED: Product{id=293, name='product_293'}
+ADDED: Product{id=294, name='product_294'}
+Print the sold Product{id=7, name='product_7'}
+ADDED: Product{id=295, name='product_295'}
+Print the sold Product{id=8, name='product_8'}
+ADDED: Product{id=296, name='product_296'}
+ADDED: Product{id=297, name='product_297'}
+Print the sold Product{id=9, name='product_9'}
+ADDED: Product{id=298, name='product_298'}
+ADDED: Product{id=299, name='product_299'}
+Print the sold Product{id=10, name='product_10'}
+ADDED: Product{id=300, name='product_300'}
+ADDED: Product{id=301, name='product_301'}
+Print the sold Product{id=11, name='product_11'}
+ADDED: Product{id=302, name='product_302'}
+ADDED: Product{id=303, name='product_303'}
+Print the sold Product{id=12, name='product_12'}
+ADDED: Product{id=304, name='product_304'}
+Print the sold Product{id=13, name='product_13'}
+ADDED: Product{id=305, name='product_305'}
+ADDED: Product{id=306, name='product_306'}
+Print the sold Product{id=14, name='product_14'}
+ADDED: Product{id=307, name='product_307'}
+ADDED: Product{id=308, name='product_308'}
+Print the sold Product{id=15, name='product_15'}
+ADDED: Product{id=309, name='product_309'}
+ADDED: Product{id=310, name='product_310'}
+Print the sold Product{id=16, name='product_16'}
+ADDED: Product{id=311, name='product_311'}
+Print the sold Product{id=17, name='product_17'}
+ADDED: Product{id=312, name='product_312'}
+ADDED: Product{id=313, name='product_313'}
+Print the sold Product{id=18, name='product_18'}
+ADDED: Product{id=314, name='product_314'}
+ADDED: Product{id=315, name='product_315'}
+Print the sold Product{id=19, name='product_19'}
+ADDED: Product{id=316, name='product_316'}
+Print the sold Product{id=20, name='product_20'}
+ADDED: Product{id=317, name='product_317'}
+ADDED: Product{id=318, name='product_318'}
+Print the sold Product{id=21, name='product_21'}
+ADDED: Product{id=319, name='product_319'}
+ADDED: Product{id=320, name='product_320'}
+Print the sold Product{id=22, name='product_22'}
+ADDED: Product{id=321, name='product_321'}
+ADDED: Product{id=322, name='product_322'}
+Print the sold Product{id=23, name='product_23'}
+ADDED: Product{id=323, name='product_323'}
+ADDED: Product{id=324, name='product_324'}
+Print the sold Product{id=24, name='product_24'}
+ADDED: Product{id=325, name='product_325'}
+Print the sold Product{id=25, name='product_25'}
+ADDED: Product{id=326, name='product_326'}
+ADDED: Product{id=327, name='product_327'}
+Print the sold Product{id=26, name='product_26'}
+ADDED: Product{id=328, name='product_328'}
+ADDED: Product{id=329, name='product_329'}
+Print the sold Product{id=27, name='product_27'}
+ADDED: Product{id=330, name='product_330'}
+ADDED: Product{id=331, name='product_331'}
+Print the sold Product{id=28, name='product_28'}
+ADDED: Product{id=332, name='product_332'}
+ADDED: Product{id=333, name='product_333'}
+Print the sold Product{id=29, name='product_29'}
+ADDED: Product{id=334, name='product_334'}
+Print the sold Product{id=30, name='product_30'}
+ADDED: Product{id=335, name='product_335'}
+ADDED: Product{id=336, name='product_336'}
+Print the sold Product{id=31, name='product_31'}
+ADDED: Product{id=337, name='product_337'}
+Print the sold Product{id=32, name='product_32'}
+ADDED: Product{id=338, name='product_338'}
+ADDED: Product{id=339, name='product_339'}
+ADDED: Product{id=340, name='product_340'}
+Print the sold Product{id=33, name='product_33'}
+ADDED: Product{id=341, name='product_341'}
+Print the sold Product{id=34, name='product_34'}
+ADDED: Product{id=342, name='product_342'}
+ADDED: Product{id=343, name='product_343'}
+Print the sold Product{id=35, name='product_35'}
+ADDED: Product{id=344, name='product_344'}
+ADDED: Product{id=345, name='product_345'}
+Print the sold Product{id=36, name='product_36'}
+ADDED: Product{id=346, name='product_346'}
+ADDED: Product{id=347, name='product_347'}
+Print the sold Product{id=37, name='product_37'}
+ADDED: Product{id=348, name='product_348'}
+ADDED: Product{id=349, name='product_349'}
+Print the sold Product{id=38, name='product_38'}
+ADDED: Product{id=350, name='product_350'}
+ADDED: Product{id=351, name='product_351'}
+Print the sold Product{id=39, name='product_39'}
+ADDED: Product{id=352, name='product_352'}
+Print the sold Product{id=40, name='product_40'}
+ADDED: Product{id=353, name='product_353'}
+ADDED: Product{id=354, name='product_354'}
+Print the sold Product{id=41, name='product_41'}
+ADDED: Product{id=355, name='product_355'}
+ADDED: Product{id=356, name='product_356'}
+Print the sold Product{id=42, name='product_42'}
+ADDED: Product{id=357, name='product_357'}
+ADDED: Product{id=358, name='product_358'}
+Print the sold Product{id=43, name='product_43'}
+ADDED: Product{id=359, name='product_359'}
+ADDED: Product{id=360, name='product_360'}
+Print the sold Product{id=44, name='product_44'}
+ADDED: Product{id=361, name='product_361'}
+ADDED: Product{id=362, name='product_362'}
+Print the sold Product{id=45, name='product_45'}
+ADDED: Product{id=363, name='product_363'}
+ADDED: Product{id=364, name='product_364'}
+Print the sold Product{id=46, name='product_46'}
+ADDED: Product{id=365, name='product_365'}
+Print the sold Product{id=47, name='product_47'}
+ADDED: Product{id=366, name='product_366'}
+ADDED: Product{id=367, name='product_367'}
+Print the sold Product{id=48, name='product_48'}
+ADDED: Product{id=368, name='product_368'}
+ADDED: Product{id=369, name='product_369'}
+Print the sold Product{id=49, name='product_49'}
+ADDED: Product{id=370, name='product_370'}
+ADDED: Product{id=371, name='product_371'}
+Print the sold Product{id=50, name='product_50'}
+ADDED: Product{id=372, name='product_372'}
+Print the sold Product{id=51, name='product_51'}
+ADDED: Product{id=373, name='product_373'}
+ADDED: Product{id=374, name='product_374'}
+Print the sold Product{id=52, name='product_52'}
+ADDED: Product{id=375, name='product_375'}
+ADDED: Product{id=376, name='product_376'}
+Print the sold Product{id=53, name='product_53'}
+ADDED: Product{id=377, name='product_377'}
+ADDED: Product{id=378, name='product_378'}
+Print the sold Product{id=54, name='product_54'}
+ADDED: Product{id=379, name='product_379'}
+ADDED: Product{id=380, name='product_380'}
+Print the sold Product{id=55, name='product_55'}
+ADDED: Product{id=381, name='product_381'}
+Print the sold Product{id=56, name='product_56'}
+ADDED: Product{id=382, name='product_382'}
+ADDED: Product{id=383, name='product_383'}
+Print the sold Product{id=57, name='product_57'}
+ADDED: Product{id=384, name='product_384'}
+ADDED: Product{id=385, name='product_385'}
+Print the sold Product{id=58, name='product_58'}
+ADDED: Product{id=386, name='product_386'}
+Print the sold Product{id=59, name='product_59'}
+ADDED: Product{id=387, name='product_387'}
+ADDED: Product{id=388, name='product_388'}
+Print the sold Product{id=60, name='product_60'}
+ADDED: Product{id=389, name='product_389'}
+ADDED: Product{id=390, name='product_390'}
+Print the sold Product{id=61, name='product_61'}
+ADDED: Product{id=391, name='product_391'}
+ADDED: Product{id=392, name='product_392'}
+Print the sold Product{id=62, name='product_62'}
+ADDED: Product{id=393, name='product_393'}
+ADDED: Product{id=394, name='product_394'}
+Print the sold Product{id=63, name='product_63'}
+ADDED: Product{id=395, name='product_395'}
+ADDED: Product{id=396, name='product_396'}
+Print the sold Product{id=64, name='product_64'}
+ADDED: Product{id=397, name='product_397'}
+ADDED: Product{id=398, name='product_398'}
+Print the sold Product{id=65, name='product_65'}
+ADDED: Product{id=399, name='product_399'}
+ADDED: Product{id=400, name='product_400'}
+Print the sold Product{id=66, name='product_66'}
+ADDED: Product{id=401, name='product_401'}
+ADDED: Product{id=402, name='product_402'}
+Print the sold Product{id=67, name='product_67'}
+ADDED: Product{id=403, name='product_403'}
+Print the sold Product{id=68, name='product_68'}
+ADDED: Product{id=404, name='product_404'}
+ADDED: Product{id=405, name='product_405'}
+Print the sold Product{id=69, name='product_69'}
+ADDED: Product{id=406, name='product_406'}
+ADDED: Product{id=407, name='product_407'}
+Print the sold Product{id=70, name='product_70'}
+ADDED: Product{id=408, name='product_408'}
+ADDED: Product{id=409, name='product_409'}
+Print the sold Product{id=71, name='product_71'}
+ADDED: Product{id=410, name='product_410'}
+ADDED: Product{id=411, name='product_411'}
+Print the sold Product{id=72, name='product_72'}
+ADDED: Product{id=412, name='product_412'}
+ADDED: Product{id=413, name='product_413'}
+Print the sold Product{id=73, name='product_73'}
+ADDED: Product{id=414, name='product_414'}
+Print the sold Product{id=74, name='product_74'}
+ADDED: Product{id=415, name='product_415'}
+ADDED: Product{id=416, name='product_416'}
+Print the sold Product{id=75, name='product_75'}
+ADDED: Product{id=417, name='product_417'}
+ADDED: Product{id=418, name='product_418'}
+Print the sold Product{id=76, name='product_76'}
+ADDED: Product{id=419, name='product_419'}
+ADDED: Product{id=420, name='product_420'}
+Print the sold Product{id=77, name='product_77'}
+ADDED: Product{id=421, name='product_421'}
+ADDED: Product{id=422, name='product_422'}
+Print the sold Product{id=78, name='product_78'}
+ADDED: Product{id=423, name='product_423'}
+Print the sold Product{id=79, name='product_79'}
+ADDED: Product{id=424, name='product_424'}
+ADDED: Product{id=425, name='product_425'}
+Print the sold Product{id=80, name='product_80'}
+ADDED: Product{id=426, name='product_426'}
+ADDED: Product{id=427, name='product_427'}
+Print the sold Product{id=81, name='product_81'}
+ADDED: Product{id=428, name='product_428'}
+ADDED: Product{id=429, name='product_429'}
+Print the sold Product{id=82, name='product_82'}
+ADDED: Product{id=430, name='product_430'}
+ADDED: Product{id=431, name='product_431'}
+Print the sold Product{id=83, name='product_83'}
+ADDED: Product{id=432, name='product_432'}
+Print the sold Product{id=84, name='product_84'}
+ADDED: Product{id=433, name='product_433'}
+ADDED: Product{id=434, name='product_434'}
+Print the sold Product{id=85, name='product_85'}
+ADDED: Product{id=435, name='product_435'}
+ADDED: Product{id=436, name='product_436'}
+Print the sold Product{id=86, name='product_86'}
+ADDED: Product{id=437, name='product_437'}
+ADDED: Product{id=438, name='product_438'}
+Print the sold Product{id=87, name='product_87'}
+ADDED: Product{id=439, name='product_439'}
+ADDED: Product{id=440, name='product_440'}
+Print the sold Product{id=88, name='product_88'}
+ADDED: Product{id=441, name='product_441'}
+ADDED: Product{id=442, name='product_442'}
+Print the sold Product{id=89, name='product_89'}
+ADDED: Product{id=443, name='product_443'}
+ADDED: Product{id=444, name='product_444'}
+Print the sold Product{id=90, name='product_90'}
+ADDED: Product{id=445, name='product_445'}
+ADDED: Product{id=446, name='product_446'}
+Print the sold Product{id=91, name='product_91'}
+ADDED: Product{id=447, name='product_447'}
+ADDED: Product{id=448, name='product_448'}
+Print the sold Product{id=92, name='product_92'}
+ADDED: Product{id=449, name='product_449'}
+ADDED: Product{id=450, name='product_450'}
+Print the sold Product{id=93, name='product_93'}
+ADDED: Product{id=451, name='product_451'}
+Print the sold Product{id=94, name='product_94'}
+ADDED: Product{id=452, name='product_452'}
+ADDED: Product{id=453, name='product_453'}
+Print the sold Product{id=95, name='product_95'}
+ADDED: Product{id=454, name='product_454'}
+ADDED: Product{id=455, name='product_455'}
+Print the sold Product{id=96, name='product_96'}
+ADDED: Product{id=456, name='product_456'}
+ADDED: Product{id=457, name='product_457'}
+Print the sold Product{id=97, name='product_97'}
+ADDED: Product{id=458, name='product_458'}
+ADDED: Product{id=459, name='product_459'}
+Print the sold Product{id=98, name='product_98'}
+ADDED: Product{id=460, name='product_460'}
+ADDED: Product{id=461, name='product_461'}
+Print the sold Product{id=99, name='product_99'}
+ADDED: Product{id=462, name='product_462'}
+Print the sold Product{id=100, name='product_100'}
+ADDED: Product{id=463, name='product_463'}
+ADDED: Product{id=464, name='product_464'}
+Print the sold Product{id=101, name='product_101'}
+ADDED: Product{id=465, name='product_465'}
+ADDED: Product{id=466, name='product_466'}
+Print the sold Product{id=102, name='product_102'}
+ADDED: Product{id=467, name='product_467'}
+ADDED: Product{id=468, name='product_468'}
+Print the sold Product{id=103, name='product_103'}
+ADDED: Product{id=469, name='product_469'}
+ADDED: Product{id=470, name='product_470'}
+Print the sold Product{id=104, name='product_104'}
+ADDED: Product{id=471, name='product_471'}
+ADDED: Product{id=472, name='product_472'}
+Print the sold Product{id=105, name='product_105'}
+ADDED: Product{id=473, name='product_473'}
+Print the sold Product{id=106, name='product_106'}
+ADDED: Product{id=474, name='product_474'}
+ADDED: Product{id=475, name='product_475'}
+ADDED: Product{id=476, name='product_476'}
+ADDED: Product{id=477, name='product_477'}
+ADDED: Product{id=478, name='product_478'}
+Print the sold Product{id=107, name='product_107'}
+ADDED: Product{id=479, name='product_479'}
+Print the sold Product{id=108, name='product_108'}
+ADDED: Product{id=480, name='product_480'}
+ADDED: Product{id=481, name='product_481'}
+ADDED: Product{id=482, name='product_482'}
+ADDED: Product{id=483, name='product_483'}
+Print the sold Product{id=109, name='product_109'}
+ADDED: Product{id=484, name='product_484'}
+ADDED: Product{id=485, name='product_485'}
+Print the sold Product{id=110, name='product_110'}
+ADDED: Product{id=486, name='product_486'}
+ADDED: Product{id=487, name='product_487'}
+Print the sold Product{id=111, name='product_111'}
+ADDED: Product{id=488, name='product_488'}
+ADDED: Product{id=489, name='product_489'}
+Print the sold Product{id=112, name='product_112'}
+ADDED: Product{id=490, name='product_490'}
+ADDED: Product{id=491, name='product_491'}
+Print the sold Product{id=113, name='product_113'}
+ADDED: Product{id=492, name='product_492'}
+ADDED: Product{id=493, name='product_493'}
+Print the sold Product{id=114, name='product_114'}
+ADDED: Product{id=494, name='product_494'}
+Print the sold Product{id=115, name='product_115'}
+ADDED: Product{id=495, name='product_495'}
+ADDED: Product{id=496, name='product_496'}
+Print the sold Product{id=116, name='product_116'}
+ADDED: Product{id=497, name='product_497'}
+ADDED: Product{id=498, name='product_498'}
+Print the sold Product{id=117, name='product_117'}
+ADDED: Product{id=499, name='product_499'}
+ADDED: Product{id=500, name='product_500'}
+Print the sold Product{id=118, name='product_118'}
+ADDED: Product{id=501, name='product_501'}
+ADDED: Product{id=502, name='product_502'}
+Print the sold Product{id=119, name='product_119'}
+ADDED: Product{id=503, name='product_503'}
+ADDED: Product{id=504, name='product_504'}
+Print the sold Product{id=120, name='product_120'}
+ADDED: Product{id=505, name='product_505'}
+Print the sold Product{id=121, name='product_121'}
+ADDED: Product{id=506, name='product_506'}
+ADDED: Product{id=507, name='product_507'}
+ADDED: Product{id=508, name='product_508'}
+Print the sold Product{id=122, name='product_122'}
+ADDED: Product{id=509, name='product_509'}
+Print the sold Product{id=123, name='product_123'}
+ADDED: Product{id=510, name='product_510'}
+ADDED: Product{id=511, name='product_511'}
+Print the sold Product{id=124, name='product_124'}
+ADDED: Product{id=512, name='product_512'}
+ADDED: Product{id=513, name='product_513'}
+ADDED: Product{id=514, name='product_514'}
+Print the sold Product{id=125, name='product_125'}
+ADDED: Product{id=515, name='product_515'}
+Print the sold Product{id=126, name='product_126'}
+ADDED: Product{id=516, name='product_516'}
+ADDED: Product{id=517, name='product_517'}
+Print the sold Product{id=127, name='product_127'}
+ADDED: Product{id=518, name='product_518'}
+ADDED: Product{id=519, name='product_519'}
+Print the sold Product{id=128, name='product_128'}
+ADDED: Product{id=520, name='product_520'}
+ADDED: Product{id=521, name='product_521'}
+Print the sold Product{id=129, name='product_129'}
+ADDED: Product{id=522, name='product_522'}
+ADDED: Product{id=523, name='product_523'}
+Print the sold Product{id=130, name='product_130'}
+ADDED: Product{id=524, name='product_524'}
+Print the sold Product{id=131, name='product_131'}
+ADDED: Product{id=525, name='product_525'}
+ADDED: Product{id=526, name='product_526'}
+Print the sold Product{id=132, name='product_132'}
+ADDED: Product{id=527, name='product_527'}
+ADDED: Product{id=528, name='product_528'}
+ADDED: Product{id=529, name='product_529'}
+Print the sold Product{id=133, name='product_133'}
+ADDED: Product{id=530, name='product_530'}
+ADDED: Product{id=531, name='product_531'}
+Print the sold Product{id=134, name='product_134'}
+ADDED: Product{id=532, name='product_532'}
+ADDED: Product{id=533, name='product_533'}
+Print the sold Product{id=135, name='product_135'}
+ADDED: Product{id=534, name='product_534'}
+ADDED: Product{id=535, name='product_535'}
+Print the sold Product{id=136, name='product_136'}
+ADDED: Product{id=536, name='product_536'}
+ADDED: Product{id=537, name='product_537'}
+Print the sold Product{id=137, name='product_137'}
+ADDED: Product{id=538, name='product_538'}
+ADDED: Product{id=539, name='product_539'}
+Print the sold Product{id=138, name='product_138'}
+ADDED: Product{id=540, name='product_540'}
+ADDED: Product{id=541, name='product_541'}
+Print the sold Product{id=139, name='product_139'}
+ADDED: Product{id=542, name='product_542'}
+Print the sold Product{id=140, name='product_140'}
+ADDED: Product{id=543, name='product_543'}
+ADDED: Product{id=544, name='product_544'}
+Print the sold Product{id=141, name='product_141'}
+ADDED: Product{id=545, name='product_545'}
+ADDED: Product{id=546, name='product_546'}
+Print the sold Product{id=142, name='product_142'}
+ADDED: Product{id=547, name='product_547'}
+ADDED: Product{id=548, name='product_548'}
+Print the sold Product{id=143, name='product_143'}
+ADDED: Product{id=549, name='product_549'}
+ADDED: Product{id=550, name='product_550'}
+Print the sold Product{id=144, name='product_144'}
+ADDED: Product{id=551, name='product_551'}
+ADDED: Product{id=552, name='product_552'}
+Print the sold Product{id=145, name='product_145'}
+ADDED: Product{id=553, name='product_553'}
+ADDED: Product{id=554, name='product_554'}
+Print the sold Product{id=146, name='product_146'}
+ADDED: Product{id=555, name='product_555'}
+Print the sold Product{id=147, name='product_147'}
+ADDED: Product{id=556, name='product_556'}
+ADDED: Product{id=557, name='product_557'}
+Print the sold Product{id=148, name='product_148'}
+ADDED: Product{id=558, name='product_558'}
+ADDED: Product{id=559, name='product_559'}
+Print the sold Product{id=149, name='product_149'}
+ADDED: Product{id=560, name='product_560'}
+ADDED: Product{id=561, name='product_561'}
+Print the sold Product{id=150, name='product_150'}
+ADDED: Product{id=562, name='product_562'}
+ADDED: Product{id=563, name='product_563'}
+Print the sold Product{id=151, name='product_151'}
+ADDED: Product{id=564, name='product_564'}
+Print the sold Product{id=152, name='product_152'}
+ADDED: Product{id=565, name='product_565'}
+ADDED: Product{id=566, name='product_566'}
+Print the sold Product{id=153, name='product_153'}
+ADDED: Product{id=567, name='product_567'}
+ADDED: Product{id=568, name='product_568'}
+ADDED: Product{id=569, name='product_569'}
+Print the sold Product{id=154, name='product_154'}
+ADDED: Product{id=570, name='product_570'}
+ADDED: Product{id=571, name='product_571'}
+Print the sold Product{id=155, name='product_155'}
+ADDED: Product{id=572, name='product_572'}
+ADDED: Product{id=573, name='product_573'}
+Print the sold Product{id=156, name='product_156'}
+ADDED: Product{id=574, name='product_574'}
+ADDED: Product{id=575, name='product_575'}
+Print the sold Product{id=157, name='product_157'}
+ADDED: Product{id=576, name='product_576'}
+Print the sold Product{id=158, name='product_158'}
+ADDED: Product{id=577, name='product_577'}
+ADDED: Product{id=578, name='product_578'}
+Print the sold Product{id=159, name='product_159'}
+ADDED: Product{id=579, name='product_579'}
+ADDED: Product{id=580, name='product_580'}
+Print the sold Product{id=160, name='product_160'}
+ADDED: Product{id=581, name='product_581'}
+Print the sold Product{id=161, name='product_161'}
+ADDED: Product{id=582, name='product_582'}
+ADDED: Product{id=583, name='product_583'}
+Print the sold Product{id=162, name='product_162'}
+ADDED: Product{id=584, name='product_584'}
+ADDED: Product{id=585, name='product_585'}
+Print the sold Product{id=163, name='product_163'}
+ADDED: Product{id=586, name='product_586'}
+ADDED: Product{id=587, name='product_587'}
+Print the sold Product{id=164, name='product_164'}
+ADDED: Product{id=588, name='product_588'}
+ADDED: Product{id=589, name='product_589'}
+Print the sold Product{id=165, name='product_165'}
+ADDED: Product{id=590, name='product_590'}
+ADDED: Product{id=591, name='product_591'}
+Print the sold Product{id=166, name='product_166'}
+ADDED: Product{id=592, name='product_592'}
+Print the sold Product{id=167, name='product_167'}
+ADDED: Product{id=593, name='product_593'}
+ADDED: Product{id=594, name='product_594'}
+Print the sold Product{id=168, name='product_168'}
+ADDED: Product{id=595, name='product_595'}
+ADDED: Product{id=596, name='product_596'}
+Print the sold Product{id=169, name='product_169'}
+ADDED: Product{id=597, name='product_597'}
+Print the sold Product{id=170, name='product_170'}
+ADDED: Product{id=598, name='product_598'}
+ADDED: Product{id=599, name='product_599'}
+Print the sold Product{id=171, name='product_171'}
+ADDED: Product{id=600, name='product_600'}
+ADDED: Product{id=601, name='product_601'}
+Print the sold Product{id=172, name='product_172'}
+ADDED: Product{id=602, name='product_602'}
+Print the sold Product{id=173, name='product_173'}
+ADDED: Product{id=603, name='product_603'}
+ADDED: Product{id=604, name='product_604'}
+Print the sold Product{id=174, name='product_174'}
+ADDED: Product{id=605, name='product_605'}
+ADDED: Product{id=606, name='product_606'}
+Print the sold Product{id=175, name='product_175'}
+ADDED: Product{id=607, name='product_607'}
+ADDED: Product{id=608, name='product_608'}
+Print the sold Product{id=176, name='product_176'}
+ADDED: Product{id=609, name='product_609'}
+Print the sold Product{id=177, name='product_177'}
+ADDED: Product{id=610, name='product_610'}
+ADDED: Product{id=611, name='product_611'}
+Print the sold Product{id=178, name='product_178'}
+ADDED: Product{id=612, name='product_612'}
+ADDED: Product{id=613, name='product_613'}
+Print the sold Product{id=179, name='product_179'}
+ADDED: Product{id=614, name='product_614'}
+ADDED: Product{id=615, name='product_615'}
+Print the sold Product{id=180, name='product_180'}
+ADDED: Product{id=616, name='product_616'}
+Print the sold Product{id=181, name='product_181'}
+ADDED: Product{id=617, name='product_617'}
+ADDED: Product{id=618, name='product_618'}
+ADDED: Product{id=619, name='product_619'}
+Print the sold Product{id=182, name='product_182'}
+ADDED: Product{id=620, name='product_620'}
+ADDED: Product{id=621, name='product_621'}
+ADDED: Product{id=622, name='product_622'}
+Print the sold Product{id=183, name='product_183'}
+ADDED: Product{id=623, name='product_623'}
+ADDED: Product{id=624, name='product_624'}
+Print the sold Product{id=184, name='product_184'}
+ADDED: Product{id=625, name='product_625'}
+ADDED: Product{id=626, name='product_626'}
+Print the sold Product{id=185, name='product_185'}
+ADDED: Product{id=627, name='product_627'}
+ADDED: Product{id=628, name='product_628'}
+Print the sold Product{id=186, name='product_186'}
+ADDED: Product{id=629, name='product_629'}
+ADDED: Product{id=630, name='product_630'}
+Print the sold Product{id=187, name='product_187'}
+ADDED: Product{id=631, name='product_631'}
+ADDED: Product{id=632, name='product_632'}
+Print the sold Product{id=188, name='product_188'}
+ADDED: Product{id=633, name='product_633'}
+Print the sold Product{id=189, name='product_189'}
+ADDED: Product{id=634, name='product_634'}
+ADDED: Product{id=635, name='product_635'}
+Print the sold Product{id=190, name='product_190'}
+ADDED: Product{id=636, name='product_636'}
+ADDED: Product{id=637, name='product_637'}
+Print the sold Product{id=191, name='product_191'}
+ADDED: Product{id=638, name='product_638'}
+ADDED: Product{id=639, name='product_639'}
+Print the sold Product{id=192, name='product_192'}
+ADDED: Product{id=640, name='product_640'}
+ADDED: Product{id=641, name='product_641'}
+Print the sold Product{id=193, name='product_193'}
+ADDED: Product{id=642, name='product_642'}
+ADDED: Product{id=643, name='product_643'}
+Print the sold Product{id=194, name='product_194'}
+ADDED: Product{id=644, name='product_644'}
+Print the sold Product{id=195, name='product_195'}
+ADDED: Product{id=645, name='product_645'}
+ADDED: Product{id=646, name='product_646'}
+Print the sold Product{id=196, name='product_196'}
+ADDED: Product{id=647, name='product_647'}
+ADDED: Product{id=648, name='product_648'}
+Print the sold Product{id=197, name='product_197'}
+ADDED: Product{id=649, name='product_649'}
+ADDED: Product{id=650, name='product_650'}
+Print the sold Product{id=198, name='product_198'}
+ADDED: Product{id=651, name='product_651'}
+ADDED: Product{id=652, name='product_652'}
+Print the sold Product{id=199, name='product_199'}
+ADDED: Product{id=653, name='product_653'}
+Print the sold Product{id=200, name='product_200'}
+ADDED: Product{id=654, name='product_654'}
+ADDED: Product{id=655, name='product_655'}
+Print the sold Product{id=201, name='product_201'}
+ADDED: Product{id=656, name='product_656'}
+ADDED: Product{id=657, name='product_657'}
+Print the sold Product{id=202, name='product_202'}
+ADDED: Product{id=658, name='product_658'}
+ADDED: Product{id=659, name='product_659'}
+ADDED: Product{id=660, name='product_660'}
+Print the sold Product{id=203, name='product_203'}
+ADDED: Product{id=661, name='product_661'}
+ADDED: Product{id=662, name='product_662'}
+Print the sold Product{id=204, name='product_204'}
+ADDED: Product{id=663, name='product_663'}
+Print the sold Product{id=205, name='product_205'}
+ADDED: Product{id=664, name='product_664'}
+ADDED: Product{id=665, name='product_665'}
+Print the sold Product{id=206, name='product_206'}
+ADDED: Product{id=666, name='product_666'}
+ADDED: Product{id=667, name='product_667'}
+Print the sold Product{id=207, name='product_207'}
+ADDED: Product{id=668, name='product_668'}
+Print the sold Product{id=208, name='product_208'}
+ADDED: Product{id=669, name='product_669'}
+ADDED: Product{id=670, name='product_670'}
+Print the sold Product{id=209, name='product_209'}
+ADDED: Product{id=671, name='product_671'}
+ADDED: Product{id=672, name='product_672'}
+Print the sold Product{id=210, name='product_210'}
+ADDED: Product{id=673, name='product_673'}
+Print the sold Product{id=211, name='product_211'}
+ADDED: Product{id=674, name='product_674'}
+ADDED: Product{id=675, name='product_675'}
+Print the sold Product{id=212, name='product_212'}
+ADDED: Product{id=676, name='product_676'}
+Print the sold Product{id=213, name='product_213'}
+ADDED: Product{id=677, name='product_677'}
+ADDED: Product{id=678, name='product_678'}
+Print the sold Product{id=214, name='product_214'}
+ADDED: Product{id=679, name='product_679'}
+ADDED: Product{id=680, name='product_680'}
+Print the sold Product{id=215, name='product_215'}
+ADDED: Product{id=681, name='product_681'}
+Print the sold Product{id=216, name='product_216'}
+ADDED: Product{id=682, name='product_682'}
+ADDED: Product{id=683, name='product_683'}
+Print the sold Product{id=217, name='product_217'}
+ADDED: Product{id=684, name='product_684'}
+ADDED: Product{id=685, name='product_685'}
+Print the sold Product{id=218, name='product_218'}
+ADDED: Product{id=686, name='product_686'}
+Print the sold Product{id=219, name='product_219'}
+ADDED: Product{id=687, name='product_687'}
+ADDED: Product{id=688, name='product_688'}
+Print the sold Product{id=220, name='product_220'}
+ADDED: Product{id=689, name='product_689'}
+ADDED: Product{id=690, name='product_690'}
+Print the sold Product{id=221, name='product_221'}
+ADDED: Product{id=691, name='product_691'}
+ADDED: Product{id=692, name='product_692'}
+Print the sold Product{id=222, name='product_222'}
+ADDED: Product{id=693, name='product_693'}
+ADDED: Product{id=694, name='product_694'}
+Print the sold Product{id=223, name='product_223'}
+ADDED: Product{id=695, name='product_695'}
+ADDED: Product{id=696, name='product_696'}
+Print the sold Product{id=224, name='product_224'}
+ADDED: Product{id=697, name='product_697'}
+ADDED: Product{id=698, name='product_698'}
+Print the sold Product{id=225, name='product_225'}
+ADDED: Product{id=699, name='product_699'}
+Print the sold Product{id=226, name='product_226'}
+ADDED: Product{id=700, name='product_700'}
+ADDED: Product{id=701, name='product_701'}
+ADDED: Product{id=702, name='product_702'}
+ADDED: Product{id=703, name='product_703'}
+Print the sold Product{id=227, name='product_227'}
+ADDED: Product{id=704, name='product_704'}
+ADDED: Product{id=705, name='product_705'}
+Print the sold Product{id=228, name='product_228'}
+ADDED: Product{id=706, name='product_706'}
+ADDED: Product{id=707, name='product_707'}
+Print the sold Product{id=229, name='product_229'}
+ADDED: Product{id=708, name='product_708'}
+Print the sold Product{id=230, name='product_230'}
+ADDED: Product{id=709, name='product_709'}
+ADDED: Product{id=710, name='product_710'}
+Print the sold Product{id=231, name='product_231'}
+ADDED: Product{id=711, name='product_711'}
+ADDED: Product{id=712, name='product_712'}
+Print the sold Product{id=232, name='product_232'}
+ADDED: Product{id=713, name='product_713'}
+ADDED: Product{id=714, name='product_714'}
+Print the sold Product{id=233, name='product_233'}
+ADDED: Product{id=715, name='product_715'}
+ADDED: Product{id=716, name='product_716'}
+Print the sold Product{id=234, name='product_234'}
+ADDED: Product{id=717, name='product_717'}
+ADDED: Product{id=718, name='product_718'}
+Print the sold Product{id=235, name='product_235'}
+ADDED: Product{id=719, name='product_719'}
+Print the sold Product{id=236, name='product_236'}
+ADDED: Product{id=720, name='product_720'}
+ADDED: Product{id=721, name='product_721'}
+Print the sold Product{id=237, name='product_237'}
+ADDED: Product{id=722, name='product_722'}
+ADDED: Product{id=723, name='product_723'}
+Print the sold Product{id=238, name='product_238'}
+ADDED: Product{id=724, name='product_724'}
+ADDED: Product{id=725, name='product_725'}
+Print the sold Product{id=239, name='product_239'}
+ADDED: Product{id=726, name='product_726'}
+Print the sold Product{id=240, name='product_240'}
+ADDED: Product{id=727, name='product_727'}
+ADDED: Product{id=728, name='product_728'}
+ADDED: Product{id=729, name='product_729'}
+Print the sold Product{id=241, name='product_241'}
+ADDED: Product{id=730, name='product_730'}
+ADDED: Product{id=731, name='product_731'}
+Print the sold Product{id=242, name='product_242'}
+ADDED: Product{id=732, name='product_732'}
+ADDED: Product{id=733, name='product_733'}
+Print the sold Product{id=243, name='product_243'}
+ADDED: Product{id=734, name='product_734'}
+Print the sold Product{id=244, name='product_244'}
+ADDED: Product{id=735, name='product_735'}
+ADDED: Product{id=736, name='product_736'}
+Print the sold Product{id=245, name='product_245'}
+ADDED: Product{id=737, name='product_737'}
+ADDED: Product{id=738, name='product_738'}
+ADDED: Product{id=739, name='product_739'}
+Print the sold Product{id=246, name='product_246'}
+ADDED: Product{id=740, name='product_740'}
+Print the sold Product{id=247, name='product_247'}
+ADDED: Product{id=741, name='product_741'}
+ADDED: Product{id=742, name='product_742'}
+Print the sold Product{id=248, name='product_248'}
+ADDED: Product{id=743, name='product_743'}
+ADDED: Product{id=744, name='product_744'}
+Print the sold Product{id=249, name='product_249'}
+ADDED: Product{id=745, name='product_745'}
+ADDED: Product{id=746, name='product_746'}
+Print the sold Product{id=250, name='product_250'}
+ADDED: Product{id=747, name='product_747'}
+ADDED: Product{id=748, name='product_748'}
+ADDED: Product{id=749, name='product_749'}
+ADDED: Product{id=750, name='product_750'}
+Print the sold Product{id=251, name='product_251'}
+ADDED: Product{id=751, name='product_751'}
+ADDED: Product{id=752, name='product_752'}
+Print the sold Product{id=252, name='product_252'}
+ADDED: Product{id=753, name='product_753'}
+ADDED: Product{id=754, name='product_754'}
+Print the sold Product{id=253, name='product_253'}
+ADDED: Product{id=755, name='product_755'}
+ADDED: Product{id=756, name='product_756'}
+Print the sold Product{id=254, name='product_254'}
+ADDED: Product{id=757, name='product_757'}
+ADDED: Product{id=758, name='product_758'}
+Print the sold Product{id=255, name='product_255'}
+ADDED: Product{id=759, name='product_759'}
+ADDED: Product{id=760, name='product_760'}
+Print the sold Product{id=256, name='product_256'}
+ADDED: Product{id=761, name='product_761'}
+ADDED: Product{id=762, name='product_762'}
+Print the sold Product{id=257, name='product_257'}
+ADDED: Product{id=763, name='product_763'}
+ADDED: Product{id=764, name='product_764'}
+Print the sold Product{id=258, name='product_258'}
+ADDED: Product{id=765, name='product_765'}
+ADDED: Product{id=766, name='product_766'}
+Print the sold Product{id=259, name='product_259'}
+ADDED: Product{id=767, name='product_767'}
+ADDED: Product{id=768, name='product_768'}
+Print the sold Product{id=260, name='product_260'}
+ADDED: Product{id=769, name='product_769'}
+ADDED: Product{id=770, name='product_770'}
+Print the sold Product{id=261, name='product_261'}
+ADDED: Product{id=771, name='product_771'}
+Print the sold Product{id=262, name='product_262'}
+ADDED: Product{id=772, name='product_772'}
+ADDED: Product{id=773, name='product_773'}
+Print the sold Product{id=263, name='product_263'}
+ADDED: Product{id=774, name='product_774'}
+ADDED: Product{id=775, name='product_775'}
+Print the sold Product{id=264, name='product_264'}
+ADDED: Product{id=776, name='product_776'}
+ADDED: Product{id=777, name='product_777'}
+Print the sold Product{id=265, name='product_265'}
+ADDED: Product{id=778, name='product_778'}
+ADDED: Product{id=779, name='product_779'}
+Print the sold Product{id=266, name='product_266'}
+ADDED: Product{id=780, name='product_780'}
+ADDED: Product{id=781, name='product_781'}
+Print the sold Product{id=267, name='product_267'}
+ADDED: Product{id=782, name='product_782'}
+ADDED: Product{id=783, name='product_783'}
+Print the sold Product{id=268, name='product_268'}
+ADDED: Product{id=784, name='product_784'}
+ADDED: Product{id=785, name='product_785'}
+Print the sold Product{id=269, name='product_269'}
+ADDED: Product{id=786, name='product_786'}
+Print the sold Product{id=270, name='product_270'}
+ADDED: Product{id=787, name='product_787'}
+ADDED: Product{id=788, name='product_788'}
+Print the sold Product{id=271, name='product_271'}
+ADDED: Product{id=789, name='product_789'}
+ADDED: Product{id=790, name='product_790'}
+Print the sold Product{id=272, name='product_272'}
+ADDED: Product{id=791, name='product_791'}
+ADDED: Product{id=792, name='product_792'}
+Print the sold Product{id=273, name='product_273'}
+ADDED: Product{id=793, name='product_793'}
+Print the sold Product{id=274, name='product_274'}
+ADDED: Product{id=794, name='product_794'}
+ADDED: Product{id=795, name='product_795'}
+ADDED: Product{id=796, name='product_796'}
+Print the sold Product{id=275, name='product_275'}
+ADDED: Product{id=797, name='product_797'}
+ADDED: Product{id=798, name='product_798'}
+Print the sold Product{id=276, name='product_276'}
+ADDED: Product{id=799, name='product_799'}
+ADDED: Product{id=800, name='product_800'}
+Print the sold Product{id=277, name='product_277'}
+ADDED: Product{id=801, name='product_801'}
+ADDED: Product{id=802, name='product_802'}
+Print the sold Product{id=278, name='product_278'}
+ADDED: Product{id=803, name='product_803'}
+Print the sold Product{id=279, name='product_279'}
+ADDED: Product{id=804, name='product_804'}
+ADDED: Product{id=805, name='product_805'}
+Print the sold Product{id=280, name='product_280'}
+ADDED: Product{id=806, name='product_806'}
+ADDED: Product{id=807, name='product_807'}
+Print the sold Product{id=281, name='product_281'}
+ADDED: Product{id=808, name='product_808'}
+ADDED: Product{id=809, name='product_809'}
+ADDED: Product{id=810, name='product_810'}
+ADDED: Product{id=811, name='product_811'}
+ADDED: Product{id=812, name='product_812'}
+ADDED: Product{id=813, name='product_813'}
+ADDED: Product{id=814, name='product_814'}
+ADDED: Product{id=815, name='product_815'}
+ADDED: Product{id=816, name='product_816'}
+ADDED: Product{id=817, name='product_817'}
+ADDED: Product{id=818, name='product_818'}
+ADDED: Product{id=819, name='product_819'}
+ADDED: Product{id=820, name='product_820'}
+ADDED: Product{id=821, name='product_821'}
+ADDED: Product{id=822, name='product_822'}
+ADDED: Product{id=823, name='product_823'}
+ADDED: Product{id=824, name='product_824'}
+ADDED: Product{id=825, name='product_825'}
+ADDED: Product{id=826, name='product_826'}
+ADDED: Product{id=827, name='product_827'}
+ADDED: Product{id=828, name='product_828'}
+ADDED: Product{id=829, name='product_829'}
+ADDED: Product{id=830, name='product_830'}
+ADDED: Product{id=831, name='product_831'}
+ADDED: Product{id=832, name='product_832'}
+ADDED: Product{id=833, name='product_833'}
+ADDED: Product{id=834, name='product_834'}
+ADDED: Product{id=835, name='product_835'}
+ADDED: Product{id=836, name='product_836'}
+ADDED: Product{id=837, name='product_837'}
+ADDED: Product{id=838, name='product_838'}
+ADDED: Product{id=839, name='product_839'}
+ADDED: Product{id=840, name='product_840'}
+ADDED: Product{id=841, name='product_841'}
+ADDED: Product{id=842, name='product_842'}
+ADDED: Product{id=843, name='product_843'}
+ADDED: Product{id=844, name='product_844'}
+ADDED: Product{id=845, name='product_845'}
+ADDED: Product{id=846, name='product_846'}
+ADDED: Product{id=847, name='product_847'}
+ADDED: Product{id=848, name='product_848'}
+ADDED: Product{id=849, name='product_849'}
+ADDED: Product{id=850, name='product_850'}
+ADDED: Product{id=851, name='product_851'}
+ADDED: Product{id=852, name='product_852'}
+ADDED: Product{id=853, name='product_853'}
+ADDED: Product{id=854, name='product_854'}
+ADDED: Product{id=855, name='product_855'}
+ADDED: Product{id=856, name='product_856'}
+ADDED: Product{id=857, name='product_857'}
+ADDED: Product{id=858, name='product_858'}
+ADDED: Product{id=859, name='product_859'}
+ADDED: Product{id=860, name='product_860'}
+ADDED: Product{id=861, name='product_861'}
+ADDED: Product{id=862, name='product_862'}
+ADDED: Product{id=863, name='product_863'}
+ADDED: Product{id=864, name='product_864'}
+ADDED: Product{id=865, name='product_865'}
+ADDED: Product{id=866, name='product_866'}
+ADDED: Product{id=867, name='product_867'}
+ADDED: Product{id=868, name='product_868'}
+ADDED: Product{id=869, name='product_869'}
+ADDED: Product{id=870, name='product_870'}
+ADDED: Product{id=871, name='product_871'}
+ADDED: Product{id=872, name='product_872'}
+ADDED: Product{id=873, name='product_873'}
+ADDED: Product{id=874, name='product_874'}
+ADDED: Product{id=875, name='product_875'}
+ADDED: Product{id=876, name='product_876'}
+ADDED: Product{id=877, name='product_877'}
+ADDED: Product{id=878, name='product_878'}
+ADDED: Product{id=879, name='product_879'}
+ADDED: Product{id=880, name='product_880'}
+ADDED: Product{id=881, name='product_881'}
+ADDED: Product{id=882, name='product_882'}
+ADDED: Product{id=883, name='product_883'}
+ADDED: Product{id=884, name='product_884'}
+ADDED: Product{id=885, name='product_885'}
+ADDED: Product{id=886, name='product_886'}
+ADDED: Product{id=887, name='product_887'}
+ADDED: Product{id=888, name='product_888'}
+ADDED: Product{id=889, name='product_889'}
+ADDED: Product{id=890, name='product_890'}
+ADDED: Product{id=891, name='product_891'}
+ADDED: Product{id=892, name='product_892'}
+ADDED: Product{id=893, name='product_893'}
+ADDED: Product{id=894, name='product_894'}
+ADDED: Product{id=895, name='product_895'}
+ADDED: Product{id=896, name='product_896'}
+ADDED: Product{id=897, name='product_897'}
+ADDED: Product{id=898, name='product_898'}
+ADDED: Product{id=899, name='product_899'}
+ADDED: Product{id=900, name='product_900'}
+ADDED: Product{id=901, name='product_901'}
+ADDED: Product{id=902, name='product_902'}
+ADDED: Product{id=903, name='product_903'}
+ADDED: Product{id=904, name='product_904'}
+ADDED: Product{id=905, name='product_905'}
+ADDED: Product{id=906, name='product_906'}
+ADDED: Product{id=907, name='product_907'}
+ADDED: Product{id=908, name='product_908'}
+ADDED: Product{id=909, name='product_909'}
+ADDED: Product{id=910, name='product_910'}
+ADDED: Product{id=911, name='product_911'}
+ADDED: Product{id=912, name='product_912'}
+ADDED: Product{id=913, name='product_913'}
+ADDED: Product{id=914, name='product_914'}
+ADDED: Product{id=915, name='product_915'}
+ADDED: Product{id=916, name='product_916'}
+ADDED: Product{id=917, name='product_917'}
+ADDED: Product{id=918, name='product_918'}
+ADDED: Product{id=919, name='product_919'}
+ADDED: Product{id=920, name='product_920'}
+ADDED: Product{id=921, name='product_921'}
+ADDED: Product{id=922, name='product_922'}
+ADDED: Product{id=923, name='product_923'}
+ADDED: Product{id=924, name='product_924'}
+ADDED: Product{id=925, name='product_925'}
+ADDED: Product{id=926, name='product_926'}
+ADDED: Product{id=927, name='product_927'}
+ADDED: Product{id=928, name='product_928'}
+ADDED: Product{id=929, name='product_929'}
+ADDED: Product{id=930, name='product_930'}
+ADDED: Product{id=931, name='product_931'}
+ADDED: Product{id=932, name='product_932'}
+ADDED: Product{id=933, name='product_933'}
+ADDED: Product{id=934, name='product_934'}
+ADDED: Product{id=935, name='product_935'}
+ADDED: Product{id=936, name='product_936'}
+ADDED: Product{id=937, name='product_937'}
+ADDED: Product{id=938, name='product_938'}
+ADDED: Product{id=939, name='product_939'}
+ADDED: Product{id=940, name='product_940'}
+ADDED: Product{id=941, name='product_941'}
+ADDED: Product{id=942, name='product_942'}
+ADDED: Product{id=943, name='product_943'}
+ADDED: Product{id=944, name='product_944'}
+ADDED: Product{id=945, name='product_945'}
+ADDED: Product{id=946, name='product_946'}
+ADDED: Product{id=947, name='product_947'}
+ADDED: Product{id=948, name='product_948'}
+ADDED: Product{id=949, name='product_949'}
+ADDED: Product{id=950, name='product_950'}
+ADDED: Product{id=951, name='product_951'}
+ADDED: Product{id=952, name='product_952'}
+ADDED: Product{id=953, name='product_953'}
+ADDED: Product{id=954, name='product_954'}
+ADDED: Product{id=955, name='product_955'}
+ADDED: Product{id=956, name='product_956'}
+ADDED: Product{id=957, name='product_957'}
+ADDED: Product{id=958, name='product_958'}
+ADDED: Product{id=959, name='product_959'}
+ADDED: Product{id=960, name='product_960'}
+ADDED: Product{id=961, name='product_961'}
+ADDED: Product{id=962, name='product_962'}
+ADDED: Product{id=963, name='product_963'}
+ADDED: Product{id=964, name='product_964'}
+ADDED: Product{id=965, name='product_965'}
+ADDED: Product{id=966, name='product_966'}
+ADDED: Product{id=967, name='product_967'}
+ADDED: Product{id=968, name='product_968'}
+ADDED: Product{id=969, name='product_969'}
+ADDED: Product{id=970, name='product_970'}
+ADDED: Product{id=971, name='product_971'}
+ADDED: Product{id=972, name='product_972'}
+ADDED: Product{id=973, name='product_973'}
+ADDED: Product{id=974, name='product_974'}
+ADDED: Product{id=975, name='product_975'}
+ADDED: Product{id=976, name='product_976'}
+ADDED: Product{id=977, name='product_977'}
+ADDED: Product{id=978, name='product_978'}
+ADDED: Product{id=979, name='product_979'}
+ADDED: Product{id=980, name='product_980'}
+ADDED: Product{id=981, name='product_981'}
+ADDED: Product{id=982, name='product_982'}
+ADDED: Product{id=983, name='product_983'}
+ADDED: Product{id=984, name='product_984'}
+ADDED: Product{id=985, name='product_985'}
+ADDED: Product{id=986, name='product_986'}
+ADDED: Product{id=987, name='product_987'}
+ADDED: Product{id=988, name='product_988'}
+ADDED: Product{id=989, name='product_989'}
+ADDED: Product{id=990, name='product_990'}
+ADDED: Product{id=991, name='product_991'}
+ADDED: Product{id=992, name='product_992'}
+ADDED: Product{id=993, name='product_993'}
+ADDED: Product{id=994, name='product_994'}
+ADDED: Product{id=995, name='product_995'}
+ADDED: Product{id=996, name='product_996'}
+ADDED: Product{id=997, name='product_997'}
+ADDED: Product{id=998, name='product_998'}
+ADDED: Product{id=999, name='product_999'}
+
+Process finished with exit code 0

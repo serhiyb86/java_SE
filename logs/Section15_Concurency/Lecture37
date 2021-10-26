@@ -1,0 +1,23 @@
+C:\Users\Serh\.jdks\openjdk-15.0.2\bin\java.exe -javaagent:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\lib\idea_rt.jar=21574:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\bin -Dfile.encoding=UTF-8 -classpath D:\Project\javaSE-javaEE_ciklum\target\classes javaSE.section15_Concurency.Lecture37
+Thread-1 got value 1
+Thread-0 got value 0
+Thread-1 got value 2
+Thread-0 got value 3
+Thread-1 got value 4
+Thread-0 got value 5
+Thread-1 got value 6
+Thread-0 got value 7
+Thread-1 got value 8
+Thread-0 got value 9
+Thread-1 got value 10
+Thread-0 got value 11
+Thread-1 got value 12
+Thread-0 got value 13
+Thread-1 got value 14
+Thread-0 got value 15
+Thread-1 got value 16
+Thread-0 got value 17
+Thread-1 got value 18
+Thread-0 got value 19
+
+Process finished with exit code 0

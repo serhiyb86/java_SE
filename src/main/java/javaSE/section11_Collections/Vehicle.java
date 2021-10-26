@@ -1,4 +1,4 @@
-package javaSE.section11.lec26;
+package javaSE.section11_Collections;
 
 import java.util.Objects;
 

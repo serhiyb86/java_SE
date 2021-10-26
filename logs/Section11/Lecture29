@@ -1,0 +1,24 @@
+C:\Users\Serh\.jdks\openjdk-15.0.2\bin\java.exe -javaagent:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\lib\idea_rt.jar=21586:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\bin -Dfile.encoding=UTF-8 -classpath D:\Project\javaSE-javaEE_ciklum\target\classes javaSE.section11_Collections.Lecture29
+Keys from nap:
+Brave
+Brilliant
+Confidence
+Joy
+
+Values from nap:
+111111111111111  1111111111 1111
+XXXXXXX
+444444 44 44 44444444444444
+33 33 3333333333333333  333 3333
+
+EntrySet from nap:
+Brave=111111111111111  1111111111 1111
+Brave = 111111111111111  1111111111 1111
+Brilliant=XXXXXXX
+Brilliant = XXXXXXX
+Confidence=444444 44 44 44444444444444
+Confidence = 444444 44 44 44444444444444
+Joy=33 33 3333333333333333  333 3333
+Joy = 33 33 3333333333333333  333 3333
+
+Process finished with exit code 0
