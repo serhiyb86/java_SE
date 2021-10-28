@@ -1,0 +1,15 @@
+C:\Users\Serh\.jdks\openjdk-15.0.2\bin\java.exe -javaagent:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5284.40\lib\idea_rt.jar=63265:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5284.40\bin -Dfile.encoding=UTF-8 -classpath D:\Project\javaSE+javaEE\target\classes javaSE.section18_Lambda_Stream.Lecture58
+Hello
+
+Sum =  8
+
+Divide 2
+
+String reverse olleh
+
+Factorial 3125
+
+MyGeneric 12
+MyGeneric fff111
+
+Process finished with exit code 0

@@ -1,0 +1,10 @@
+C:\Users\Serh\.jdks\openjdk-15.0.2\bin\java.exe -javaagent:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5284.40\lib\idea_rt.jar=62801:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5284.40\bin -Dfile.encoding=UTF-8 -classpath D:\Project\javaSE+javaEE\target\classes javaSE.section18_Lambda_Stream.Lecture57
+walking robot
+walking robot
+
+Custom object walking ....
+the object tripped...
+
+Hello world!!!!
+
+Process finished with exit code 0

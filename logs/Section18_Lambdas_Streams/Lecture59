@@ -1,0 +1,20 @@
+C:\Users\Serh\.jdks\openjdk-15.0.2\bin\java.exe -javaagent:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5284.40\lib\idea_rt.jar=53081:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5284.40\bin -Dfile.encoding=UTF-8 -classpath D:\Project\javaSE+javaEE\target\classes javaSE.section18_Lambda_Stream.Lecture59
+Car{make='Toyota', model='Corolla', color='Black', price=19200}
+Car{make='Mitsubishi', model='Lancer', color='White', price=20000}
+
+Car{make='Honda', model='Accord', color='Red', price=22300}
+Car{make='Jeep', model='Wrangler', color='Red', price=24500}
+
+Car{make='Test', model='Test2', color='t3', price=5555}
+ price = 22300 color = Red
+Printing cars between price 18000 and 22000
+Car{make='Toyota', model='Corolla', color='Black', price=19200}
+Car{make='Mitsubishi', model='Lancer', color='White', price=20000}
+Print blue cars
+Car{make='Honda', model='Civic', color='Blue', price=17700}
+Car{make='Toyota', model='Camry', color='Blue', price=24000}
+My invoke using interface
+Car{make='Honda', model='Civic', color='Blue', price=17700}
+Car{make='Nissan', model='Sentra', color='White', price=17300}
+
+Process finished with exit code 0
