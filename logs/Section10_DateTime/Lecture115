@@ -1,0 +1,11 @@
+C:\Users\Serh\.jdks\openjdk-15.0.2\bin\java.exe -javaagent:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\lib\idea_rt.jar=1032:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\bin -Dfile.encoding=UTF-8 -classpath D:\Project\javaSE-javaEE_ciklum\target\classes javaSE.section10_DateTime.Lecture115
+2021-10-28
+13:32:56.279699100
+2021-10-28T13:32:56.279699100
+2017-01-01
+10:30
+2017-01-01T10:30
+Thu Oct 28 13:32:56 EEST 2021
+Thu Jan 01 13:32:56 EET 2015
+
+Process finished with exit code 0

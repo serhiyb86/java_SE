@@ -1,0 +1,33 @@
+C:\Users\Serh\.jdks\openjdk-15.0.2\bin\java.exe -javaagent:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\lib\idea_rt.jar=1079:C:\Users\Serh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\bin -Dfile.encoding=UTF-8 -classpath D:\Project\javaSE-javaEE_ciklum\target\classes javaSE.section18_Lambda_Stream.Lecture60
+6
+7
+8
+9
+
+tent toothpaste toy
+44.0
+
+car
+computer
+
+Stream from file:
+Bitcoin
+Computer Application
+Dry Cleaner
+Education
+Health Insurance
+Keyboard
+Powerade
+Samantha
+White Board
+
+Stream from file2:
+Health Insurance Samantha
+Stream from file3:
+3 good rows.
+
+Stream from file4:
+APPL 145 422
+AMZN 690 849
+
+Process finished with exit code 0
